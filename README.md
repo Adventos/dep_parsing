@@ -10,3 +10,4 @@ Note:
 * The input file has to be dependency trees in CoNLL format (with columns separeted by commas).
 * Two trees have to be separated by a line of commas: ",,,,,,,,,,"
 * The two vocabulary files have to be composed of words (one word per line). If you deal with compound words, link these words by underscores.
+* The global vocabulary list has to contain the specific vocabulary list.
